@@ -13,7 +13,8 @@ Laravel Blog is a complete blogging content management system.
 5.	Mail Subscribe
 6.	Social network share options
 7.	Multiple Users - Admin and Writers with permissions
-8.	A Complete blog with a lot of features 
+8.	Support commenting to individual posts
+9.	A Complete blog with a lot of features 
 
 
 ## Technology
