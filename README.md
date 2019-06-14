@@ -1,6 +1,6 @@
 ## Todo App is a Todo List Application.
 
-Todo app is a simple todo list application for following one's todo list.  
+Laravel Blog is a complete blogging content management system.  
 
 - - - -
 
