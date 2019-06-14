@@ -1,4 +1,4 @@
-## Todo App is a Todo List Application.
+## Laravel Blog is a complete Blog Application.
 
 Laravel Blog is a complete blogging content management system.  
 
